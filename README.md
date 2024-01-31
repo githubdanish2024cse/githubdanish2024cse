@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @githubdanish2024cse
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning btech in cse at vit vellore
-- 💞️ I’m looking to collaborate on projets of experienced students for my improvement
+- 🌱 I’m currently Studying btech in cse at vit vellore
+- 💞️ I’m looking to collaborate on differnt projets of experienced students for expanding my expertise to different domains
 - 📫 How to reach me @mddanish.anwar2020@vitstudent.ac.in
 
 <!---
